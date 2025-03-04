@@ -134,7 +134,7 @@ const LandingPage: React.FC = () => {
               duration={800} 
               className="hover:text-indigo-200 transition-colors duration-200 cursor-pointer"
             >
-              Trending
+              Trends
             </Link>
             <Link 
               to="booking" 
@@ -143,7 +143,7 @@ const LandingPage: React.FC = () => {
               duration={800} 
               className="hover:text-indigo-200 transition-colors duration-200 cursor-pointer"
             >
-              Booking
+              Book
             </Link>
             <Link 
               to="discover" 
