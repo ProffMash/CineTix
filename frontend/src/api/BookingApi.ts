@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://127.0.0.1:8000/api/booking/';
+const API_URL = 'https://cinetix-api.onrender.com/api/booking/';
 
 export interface Booking {
     booking_id?: number;
